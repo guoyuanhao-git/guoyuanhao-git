@@ -3,19 +3,20 @@
   <img src="assets/header-light.svg" alt="Yuanhao Guo — Embodied AI and robot learning" width="100%">
 </picture>
 
-I'm a **master's student in AI for Science at Peking University**, researching **embodied AI**. My background is in physics, and my current interests include robot learning and efficient action generation.
+I'm a **master's student in AI for Science** at the [School of AI, Peking University](https://ai4s.pkusz.edu.cn/), researching **embodied AI**. I previously studied physics at the [School of Physics, Wuhan University](https://physics.whu.edu.cn/). My current work focuses on robot learning and efficient action generation.
 
 Member of [iPPLab](https://github.com/iPPLab), advised by [Weihao Yu](https://github.com/yuweihao).
 
-[Email](mailto:3468699065@qq.com) · [PaperPilot](https://github.com/guoyuanhao-git/PaperPilot)
+**Project inquiries:** [yuanhaoguo527@gmail.com](mailto:yuanhaoguo527@gmail.com)<br>
+**Personal contact:** [3468699065@qq.com](mailto:3468699065@qq.com)
 
 ### Education
 
 **Peking University** · 2026–2029 (expected)<br>
-Master's student in AI for Science
+[School of AI](https://ai4s.pkusz.edu.cn/) · Master's student in AI for Science
 
 **Wuhan University** · 2021–2025<br>
-Undergraduate studies, Department of Physics
+[School of Physics](https://physics.whu.edu.cn/) · Undergraduate studies in Physics
 
 ### Research interests
 
