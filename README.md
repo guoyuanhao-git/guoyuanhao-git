@@ -24,8 +24,8 @@ Member of [iPPLab](https://github.com/iPPLab), advised by [Weihao Yu](https://gi
     </td>
     <td valign="middle">
       <strong>Peking University</strong><br>
-      <a href="https://ai4s.pkusz.edu.cn/">School of Ai4S</a><br>
-      Master's student · AI for Science
+      School of Ai4S<br>
+      Master's student · Computer Science and Technology
     </td>
   </tr>
   <tr>
@@ -39,8 +39,8 @@ Member of [iPPLab](https://github.com/iPPLab), advised by [Weihao Yu](https://gi
     </td>
     <td valign="middle">
       <strong>Wuhan University</strong><br>
-      <a href="https://physics.whu.edu.cn/">School of Physics</a><br>
-      Undergraduate studies · Physics
+      School of Physics<br>
+      Bachelor's degree · Physics
     </td>
   </tr>
 </table>
