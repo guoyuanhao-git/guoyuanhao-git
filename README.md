@@ -7,8 +7,7 @@ I research **embodied AI**, with a focus on robot learning and efficient action 
 
 Member of [iPPLab](https://github.com/iPPLab), advised by [Weihao Yu](https://github.com/yuweihao).
 
-**Project inquiries:** [yuanhaoguo527@gmail.com](mailto:yuanhaoguo527@gmail.com)<br>
-**Personal contact:** [3468699065@qq.com](mailto:3468699065@qq.com)
+**Contact:** [Gmail](mailto:yuanhaoguo527@gmail.com) · [PKU Email](mailto:guoyuanhao26@stu.pku.edu.cn)
 
 ### Education
 
