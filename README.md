@@ -12,11 +12,38 @@ Member of [iPPLab](https://github.com/iPPLab), advised by [Weihao Yu](https://gi
 
 ### Education
 
-**Peking University** · 2026–2029 (expected)<br>
-[School of AI](https://ai4s.pkusz.edu.cn/) · Master's student in AI for Science
-
-**Wuhan University** · 2021–2025<br>
-[School of Physics](https://physics.whu.edu.cn/) · Undergraduate studies in Physics
+<table>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <a href="https://www.pku.edu.cn/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/pku-dark.png">
+          <img src="assets/pku.png" alt="Peking University seal" width="52" height="52">
+        </picture>
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>Peking University</strong><br>
+      <a href="https://ai4s.pkusz.edu.cn/">School of AI</a><br>
+      Master's student · AI for Science
+    </td>
+  </tr>
+  <tr>
+    <td width="76" align="center" valign="middle">
+      <a href="https://www.whu.edu.cn/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/whu-dark.png">
+          <img src="assets/whu.png" alt="Wuhan University seal" width="52" height="52">
+        </picture>
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>Wuhan University</strong><br>
+      <a href="https://physics.whu.edu.cn/">School of Physics</a><br>
+      Undergraduate studies · Physics
+    </td>
+  </tr>
+</table>
 
 ### Research interests
 
